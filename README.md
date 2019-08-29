@@ -1,2 +1,2 @@
-# diseno-de-sitios-web
+# Diseño de sitios web
 Repositorio de prueba
